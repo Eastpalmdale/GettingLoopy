@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72378e93-cedc-4039-a96c-4a130f0b8d10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gettingloopy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bpart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bpart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bpart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CtoF.java" afterDir="false" />
+    <list default="true" id="72378e93-cedc-4039-a96c-4a130f0b8d10" name="Changes" comment="2:05pm 3/7/2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CtoF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CtoF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CtoF">
-    <configuration name="Apart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Apart4" />
-      <module name="gettingloopy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.TaskC">
     <configuration name="Bpart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bpart1" />
       <module name="gettingloopy" />
@@ -85,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskC" />
+      <module name="gettingloopy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskC" />
         <item itemvalue="Application.CtoF" />
         <item itemvalue="Application.Bpart3" />
         <item itemvalue="Application.Bpart1" />
         <item itemvalue="Application.Bpart2" />
-        <item itemvalue="Application.Apart4" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1709749480247</updated>
     </task>
+    <task id="LOCAL-00001" summary="2:05pm 3/7/2024">
+      <created>1709838344101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709838344101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +112,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2:05pm 3/7/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="2:05pm 3/7/2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TaskC.java</url>
+          <line>1</line>
+          <properties class="TaskC" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

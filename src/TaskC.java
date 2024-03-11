@@ -1,12 +1,41 @@
 public class TaskC {
     public static void main(String[] args) {
-        for (int row = 0; row <= 5; row += 1) {
-
-            for (int col = 0; col <= 5; col++) {
-                System.out.print("*");
-            }
-            System.out.println();
-
+        for(int row = 0; row <= 6; row++){
+            System.out.print("****");
         }
+        System.out.println();
+        for(int row = 0; row <= 6; row++){
+            System.out.print("****");
+        }
+        System.out.println();
+        for(int row = 0; row <= 6; row++){
+            System.out.print("****");
+        }
+        System.out.println();
+        for(int row = 0; row <= 6; row++){
+            System.out.print("****");
+        }
+        System.out.println();
+        for (int col1 = 0; col1 <= 8; col1 += 1) {
+            System.out.println("******");
+        }
+        for(int row = 0; row <= 6; row++){
+            System.out.print("******");
+        }
+        System.out.println();
+        for(int row = 0; row <= 6; row++){
+            System.out.print("******");
+        }
+        System.out.println();
+        for(int row = 0; row <= 6; row++){
+            System.out.print("******");
+        }
+        System.out.println();
+        for(int row = 0; row <= 6; row++){
+            System.out.print("******");
+        }
+        System.out.println();
+
+
     }
 }
